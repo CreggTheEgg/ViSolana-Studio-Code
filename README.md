@@ -6,6 +6,8 @@ A Visual Studio Code theme for the solana summer folks out there, just in time f
 
 - All colors and styles can be overwriten using the normal VSCode methods: https://code.visualstudio.com/docs/introvideos/configure
 
+- Currently we natively support Rust + JS however more are on the way, it will work for everything, just better with what i've done manually thus far :)
+
 ![](images/js.png)
 ![](images/rust.png)
 
