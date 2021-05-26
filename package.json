@@ -3,6 +3,7 @@
     "displayName": "Solana Summer",
     "description": "A VS Code Theme based on the color theme of the Solana crypto ecosystem",
     "version": "0.0.1",
+    "icon": "images/vsolanateaser.png",
     "publisher": "Cregg",
     "engines": {
         "vscode": "^1.56.0"
