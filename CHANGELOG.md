@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+- v0.1.1
+
+  - added brighter bold neon for rust
+
 - Initial release
