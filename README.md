@@ -6,6 +6,7 @@ A Visual Studio Code theme for the solana summer folks out there, just in time f
 
 - All colors and styles can be overwriten using the normal VSCode methods: https://code.visualstudio.com/docs/introvideos/configure
 
+![](images/js.png)
 ![](images/rust.png)
 
 ### For more information

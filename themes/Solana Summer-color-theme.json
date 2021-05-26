@@ -858,7 +858,8 @@
 				"storage.modifier.mut.rust"
 			],
 			"settings": {
-			  "foreground": "#03E1FF"
+			  "foreground": "#03E1FF",
+			  "fontStyle": "italic"
 			}
 		},
 		{
@@ -889,7 +890,8 @@
 				"string.quoted.single.rust"
 			],
 			"settings": {
-			  "foreground": "#00FFA3"
+			  "foreground": "#00FFA3",
+			  "fontStyle": "bold"
 			}
 		},
 		{
