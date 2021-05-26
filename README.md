@@ -8,7 +8,7 @@ A Visual Studio Code theme for the solana summer folks out there, just in time f
 
 - Currently we natively support Rust + JS however more are on the way, it will work for everything, just better with what i've done manually thus far :)
 
-![](images/js.png)
+![](images/javascript.png)
 ![](images/rust.png)
 
 ### For more information
