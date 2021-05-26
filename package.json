@@ -7,6 +7,19 @@
     "engines": {
         "vscode": "^1.56.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CreggTheEgg/ViSolana-Studio-Code"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "solana",
+        "crypto",
+        "summer",
+        "neon",
+        "synthwave"
+    ],
     "categories": [
         "Themes"
     ],
