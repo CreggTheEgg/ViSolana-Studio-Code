@@ -866,7 +866,15 @@
 			"scope": [
 				"keyword.operator.comparison.rust",
 				"keyword.operator.assignment",
-				"keyword.operator.namespace.rust"
+				"keyword.operator.namespace.rust",
+				"punctuation.definition.string.rust",
+				"punctuation.semi.rust",
+				"punctuation.comma.rust",
+				"punctuation.brackets.round.rust",
+				"punctuation.definition.interpolation.rust",
+				"punctuation.brackets.angle.rust",
+				"punctuation.brackets.attribute.rust"
+
 			],
 			"settings": {
 				"foreground": "#5ba4c8"
@@ -901,6 +909,101 @@
 			"settings": {
 			  "foreground": "#00FFA366"
 			}
-		}		
+		},
+		{
+			"scope": [
+			  "comment.line.number-sign.python",
+			  "punctuation.definition.comment.python"
+			],
+			"settings": {
+			  "foreground": "#00FFA366"
+			}
+		},
+		{
+			"scope": [
+				"variable.other.python",
+				"string.quoted.double.python",
+				"string.quoted.single.python"
+			],
+			"settings": {
+			  "foreground": "#00FFA3",
+			  "fontStyle": "bold"
+			}
+		},
+		{
+			"scope":[
+				"punctuation.separator.comma.python",
+				"punctuation.definition.string.begin.python",
+				"punctuation.definition.string.end.python",
+				"keyword.operator.comparison.python",
+				"punctuation.separator.period.python",
+				"punctuation.separator.colon.python",
+				"punctuation.separator.arguments.python"
+			],
+			"settings": {
+				"foreground": "#5ba4c8"
+			}
+		}
+		,
+		{
+			"scope":[
+				"storage.type.function.python"
+			],
+			"settings": {
+				"foreground": "#DC1FFF"
+			}
+		},
+		{
+			"scope":[
+				"keyword.control.import.python"
+			],
+			"settings": {
+				"foreground": "#03E1FF",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+		  "scope": [
+			"source.python"
+		  ],
+		  "settings": {
+			"foreground": "#00FFA3",
+			"fontStyle": "bold"
+		  }
+		},
+		{
+		  "scope": [
+			"meta.function-call.generic.python"
+		  ],
+		  "settings": {
+			"foreground": "#03E1FF",
+			"fontStyle": "italic"
+		  }
+		},
+		{
+		  "scope": [
+			"support.function.builtin.python"
+		  ],
+		  "settings": {
+			"foreground": "#FFDB20"
+		  }
+		},
+		{
+		  "scope": [
+			"meta.function-call.generic.python"
+		  ],
+		  "settings": {
+			"foreground": "#FFDB20",
+			"fontStyle": "italic"
+		  }
+		},
+		{
+			"scope":[
+				"support.type.python"
+			],
+			"settings": {
+				"foreground": "#FF852D"
+			}
+		}
 	  ]
   }
