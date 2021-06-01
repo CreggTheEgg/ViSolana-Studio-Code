@@ -413,7 +413,15 @@
 			],
 			"settings": {
 			  "foreground": "#00FFA3",
-			  "fontStyle": "italic bold"
+			  "fontStyle": "italic"
+			}
+		  },
+		  {
+			"scope":[
+				"meta.brace.round.js"
+			],
+			"settings": {
+				"foreground": "#5BA4C8"
 			}
 		  },
 		  {
@@ -887,8 +895,7 @@
 				"entity.name.type.option.rust"
 			],
 			"settings": {
-			  "foreground": "#DC1FFF",
-			  "fontStyle": "italic"
+			  "foreground": "#DC1FFF"
 			}
 		},
 		{
